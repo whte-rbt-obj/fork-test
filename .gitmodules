@@ -1,9 +1,9 @@
 [submodule "fork-test-sub-1"]
 	path = fork-test-sub-1
-	url = https://github.com/MetraTech/fork-test-sub-1.git
+	url = https://github.com/whte-rbt-obj/fork-test-sub-1.git
 [submodule "fork-test-sub-3"]
 	path = fork-test-sub-3
-	url = https://github.com/MetraTech/fork-test-sub-3.git
+	url = https://github.com/whte-rbt-obj/fork-test-sub-3.git
 [submodule "fork-test-sub-2"]
 	path = fork-test-sub-2
-	url = https://github.com/MetraTech/fork-test-sub-2.git
+	url = https://github.com/whte-rbt-obj/fork-test-sub-2.git
